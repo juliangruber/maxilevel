@@ -31,6 +31,12 @@ m.get('foo', function(err, port){
 $ npm install maxilevel
 ```
 
+## API
+
+### Maxilevel(dir)
+### #get(id, fn)
+### #close(id)
+
 ## License
 
   MIT
