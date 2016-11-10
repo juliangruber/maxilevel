@@ -11,7 +11,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "debug": "^2.1.3",
+    "debug": "^2.3.1",
     "level-sandbox": "^1.4.0",
     "multilevel-connect": "^1.0.0"
   }
